@@ -15,7 +15,7 @@ library(covidPhenotypesTest)
 
 options(andromedaTempFolder = "./tmp")
 
-outFolder <- "./output" #or specify your own output path
+outputFolder <- "./output" #or specify your own output path
 
 
 user <- "Type your data here"
